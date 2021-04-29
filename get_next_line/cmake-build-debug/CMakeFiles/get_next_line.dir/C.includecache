@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nercnom/Desktop/Школа 21/get_next_line/get_next_line.c
+get_next_line.h
+/Users/nercnom/Desktop/Школа 21/get_next_line/get_next_line.h
+
+/Users/nercnom/Desktop/Школа 21/get_next_line/get_next_line.h
+stdlib.h
+-
+unistd.h
+-
+fcntl.h
+-
+
